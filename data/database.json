@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "A",
+            "body": "Lorem Ipsum",
+            "author": "Mario",
+            "id": 1
+        },
+        {
+            "title": "B",
+            "body": "Lorem Ipsum",
+            "author": "Luigi",
+            "id": 2
+        }
+    ]
+}
