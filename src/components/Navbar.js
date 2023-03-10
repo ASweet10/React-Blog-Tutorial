@@ -1,17 +1,14 @@
+import { Link } from 'react-router-dom'
+
 const Navbar = () => {
-    const title = "hard-coded title"
-    
-    
+    const title = "Meal Planner"
+        
     return (
         <nav className="navbar">
             <h1>{ title }</h1>
             <div className="links">
-                <a href="/">Home</a>
-                <a href="/create" style={{
-                    color: "white",
-                    backgroundColor: "blue",
-                    borderRadius: "8px"
-                }}>New Blog</a>
+                <Link to="/">Home</Link>
+                <Link to="/create">Add New Meal</Link>
             </div>
         </nav>
       );

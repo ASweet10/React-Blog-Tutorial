@@ -1,16 +1,28 @@
 {
-    "blogs":[
-        {
-            "title": "A",
-            "body": "Lorem Ipsum",
-            "author": "Mario",
-            "id": 1
-        },
-        {
-            "title": "B",
-            "body": "Lorem Ipsum",
-            "author": "Luigi",
-            "id": 2
-        }
-    ]
+  "meals": [
+    {
+      "title": "A",
+      "body": "Lorem Ipsum",
+      "type": "Breakfast",
+      "id": 1
+    },
+    {
+      "title": "B",
+      "body": "Lorem Ipsum",
+      "type": "Lunch",
+      "id": 2
+    },
+    {
+      "title": "C",
+      "body": "Lorem Ipsum",
+      "type": "Dinner",
+      "id": 3
+    },
+    {
+      "title": "aaa",
+      "body": " bbbb",
+      "type": "Breakfast",
+      "id": 4
+    }
+  ]
 }
